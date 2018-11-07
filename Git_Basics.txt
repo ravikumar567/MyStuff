@@ -1,0 +1,12 @@
+To initialize the repository --->git init
+
+To to add the repository into remote(central)repository -->git add remote origin "url"
+
+To push the code into remote repository--->git push -u origin
+
+To pull code from the remote repository --->git pull origin master
+
+To add all the changes at a time ---> git add .
+
+
+
