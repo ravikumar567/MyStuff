@@ -6,7 +6,7 @@ To push the code into remote repository--->git push -u origin
 
 To pull code from the remote repository --->git pull origin master
 
-To add all the changes at a time ---> git add .
+To add all the changes at a time ---> git add . or git add -A
 
 
 
