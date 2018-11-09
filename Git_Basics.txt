@@ -10,3 +10,10 @@ To add all the changes at a time ---> git add .
 
 
 
+
+
+
+To generate SSH key--->ssh-keygen
+
+To authenticate ssh key with github--> ssh -T git@github.com
+
