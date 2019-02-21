@@ -17,3 +17,5 @@ To generate SSH key--->ssh-keygen
 
 To authenticate ssh key with github--> ssh -T git@github.com
 
+
+https://gist.github.com/karenyyng/f19ff75c60f18b4b8149#file-git_mergetool_tutorial-md
